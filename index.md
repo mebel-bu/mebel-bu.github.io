@@ -1,14 +1,22 @@
 ### МЕБЕЛЬ офисная. Новая и не очень...
 
-У нас вы можете купить мебель для офиса.
+Мы продаём мебель для офиса б/у: **+38(000)123-5678**
 
 [Весь каталог в одном файле.](https://github.com/mebel-bu/mebel-bu.github.io/raw/master/price/mebel-bu.pdf)
 
 ---
 
-## Акции
+## Акционные предложения
 
-Акционные предложения...
+1. Столешница  отличного качетсва. Коплект ног металлических.
+- **350 грн.**
+- ![](https://github.com/mebel-bu/mebel-bu.github.io/raw/master/img/chair01.jpg)
+- ![](https://github.com/mebel-bu/mebel-bu.github.io/raw/master/img/chair02.jpg)
+
+2. Премиум сегмент производство всемирно известной фабрики.
+- **800 грн.**
+- ![](https://github.com/mebel-bu/mebel-bu.github.io/raw/master/img/stand01.jpg)
+- ![](https://github.com/mebel-bu/mebel-bu.github.io/raw/master/img/stand02.jpg)
 
 ---
 
@@ -18,24 +26,24 @@
 
 | №  | Фото | Описание, комплект | Цена |
 |---:|:-----|:-------------------|:-----|
-| 1. | ![](https://github.com/mebel-bu/mebel-bu.github.io/raw/master/img/table01.jpg) | Столешница  отличного качетсва. Коплект ног металлических | 350 грн. |
-| 2. | ![](https://github.com/mebel-bu/mebel-bu.github.io/raw/master/img/table02.jpg) | Премиум сегмент производство всемирно известной фабрики | 800 грн. |
-| 3. | ![](https://github.com/mebel-bu/mebel-bu.github.io/raw/master/img/table03.jpg) | Стол, тумба, экран звукоизоляционный | 2000 грн. |
-| 4. | ![](https://github.com/mebel-bu/mebel-bu.github.io/raw/master/img/table04.jpg) | Стол угловой с тумбой и тумбой для системного блока | 750 грн. |
+|  1 | ![](https://github.com/mebel-bu/mebel-bu.github.io/raw/master/img/table01.jpg) | Столешница  отличного качетсва. Коплект ног металлических | 350 грн. |
+|  2 | ![](https://github.com/mebel-bu/mebel-bu.github.io/raw/master/img/table02.jpg) | Премиум сегмент производство всемирно известной фабрики | 800 грн. |
+|  3 | ![](https://github.com/mebel-bu/mebel-bu.github.io/raw/master/img/table03.jpg) | Стол, тумба, экран звукоизоляционный | 2000 грн. |
+|  4 | ![](https://github.com/mebel-bu/mebel-bu.github.io/raw/master/img/table04.jpg) | Стол угловой с тумбой и тумбой для системного блока | 750 грн. |
 
 ### Стулья
 
 | №  | Фото | Описание, комплект | Цена |
 |---:|:-----|:-------------------|:-----|
-| 1. | ![](https://github.com/mebel-bu/mebel-bu.github.io/raw/master/img/chair01.jpg) | Столешница  отличного качетсва. Коплект ног металлических | 350 грн. |
-| 2. | ![](https://github.com/mebel-bu/mebel-bu.github.io/raw/master/img/chair02.jpg) | Премиум сегмент производство всемирно известной фабрики | 800 грн. |
+|  1 | ![](https://github.com/mebel-bu/mebel-bu.github.io/raw/master/img/chair01.jpg) | Столешница  отличного качетсва. Коплект ног металлических | 350 грн. |
+|  2 | ![](https://github.com/mebel-bu/mebel-bu.github.io/raw/master/img/chair02.jpg) | Премиум сегмент производство всемирно известной фабрики | 800 грн. |
 
 ### Тумбы
 
 | №  | Фото | Описание, комплект | Цена |
 |---:|:-----|:-------------------|:-----|
-| 1. | ![](https://github.com/mebel-bu/mebel-bu.github.io/raw/master/img/stand01.jpg) | Столешница  отличного качетсва. Коплект ног металлических | 350 грн. |
-| 2. | ![](https://github.com/mebel-bu/mebel-bu.github.io/raw/master/img/stand02.jpg) | Премиум сегмент производство всемирно известной фабрики | 800 грн. |
+|  1 | ![](https://github.com/mebel-bu/mebel-bu.github.io/raw/master/img/stand01.jpg) | Столешница  отличного качетсва. Коплект ног металлических | 350 грн. |
+|  2 | ![](https://github.com/mebel-bu/mebel-bu.github.io/raw/master/img/stand02.jpg) | Премиум сегмент производство всемирно известной фабрики | 800 грн. |
 
 ---
  
@@ -45,7 +53,7 @@
 
 - Рассматрим варианты продажи мебели под реализацию.
 
-- [Свяжитесь с нами](Контакты)
+- [Свяжитесь с нами](#Контакты)
 
 ---
 
@@ -60,7 +68,9 @@
 - Доставка в регионы НОВОЙ ПОЧТОЙ или ИНТАЙМ после полной оплаты товара.
 
 - Самовывоз.
- 
+
+---
+
 ## Контакты
 
 ### Менеджер по продажам
@@ -70,7 +80,3 @@
 ### Руководитель отдела мебели
 
 **+38(000)123-5678**, Андрей
-
----
-
-Офисная мебель б/у: **+38(000)123-5678**
