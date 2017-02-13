@@ -8,15 +8,19 @@
 
 ## Акционные предложения
 
-1. Столешница  отличного качетсва. Коплект ног металлических.
-- **350 грн.**
-- ![](https://github.com/mebel-bu/mebel-bu.github.io/raw/master/img/chair01.jpg)
-- ![](https://github.com/mebel-bu/mebel-bu.github.io/raw/master/img/chair02.jpg)
+1. Офисный стул отличного качетсва:
+- Цена: **350 грн.**
+- Прозрачная спинка
+	![](https://github.com/mebel-bu/mebel-bu.github.io/raw/master/img/chair01.jpg)
+- Блестящие ножки
+	![](https://github.com/mebel-bu/mebel-bu.github.io/raw/master/img/chair02.jpg)
 
-2. Премиум сегмент производство всемирно известной фабрики.
-- **800 грн.**
-- ![](https://github.com/mebel-bu/mebel-bu.github.io/raw/master/img/stand01.jpg)
-- ![](https://github.com/mebel-bu/mebel-bu.github.io/raw/master/img/stand02.jpg)
+2. Тумба премиум-сегмента
+- Цена **800 грн.**
+- Выглядит - супер!
+	![](https://github.com/mebel-bu/mebel-bu.github.io/raw/master/img/stand01.jpg)
+- И так - ничё!
+	![](https://github.com/mebel-bu/mebel-bu.github.io/raw/master/img/stand02.jpg)
 
 ---
 
