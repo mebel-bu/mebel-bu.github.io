@@ -70,6 +70,9 @@
 **+38(000)123-5678**, Андрей
 
 ### Центральный офис
+
+г.Житомир, ул.Красноармейская, 18
+
 <p>Раз два три</p>
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6073.112640245614!2d28.658177903654003!3d50.20921298470794!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x472c64a32bfa355d%3A0xf14ad2a3d9b9e229!2z0JbQuNGC0L7QvNC40YAsINCW0LjRgtC-0LzQuNGA0YHQutCw0Y8g0L7QsdC70LDRgdGC0Yw!5e0!3m2!1sru!2sua!4v1487005362984" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6073.112640245614!2d28.658177903654003!3d50.20921298470794!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x472c64a32bfa355d%3A0xf14ad2a3d9b9e229!2z0JbQuNGC0L7QvNC40YAsINCW0LjRgtC-0LzQuNGA0YHQutCw0Y8g0L7QsdC70LDRgdGC0Yw!5e0!3m2!1sru!2sua!4v1487005362984" width="800" height="600" frameborder="0" style="border:0" allowfullscreen></iframe>
 <p>Раз два три</p>
