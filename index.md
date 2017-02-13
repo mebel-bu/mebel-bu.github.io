@@ -1,37 +1,47 @@
-## Welcome to GitHub Pages
+## МЕБЕЛЬ офисная. Новая и не очень...
 
-You can use the [editor on GitHub](https://github.com/mebel-bu/mebel-bu.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+У нас вы можете купить мебель для офиса.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[Весь каталог в одном файле.](/raw/master/mebel-bu.pdf)
 
-### Markdown
+## Акции
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Акционные предложения...
 
-```markdown
-Syntax highlighted code block
+## Каталог
 
-# Header 1
-## Header 2
-### Header 3
+### Столы
 
-- Bulleted
-- List
+### Стулья
 
-1. Numbered
-2. List
+### Тумбы
+ 
+## Выкуп мебели
 
-**Bold** and _Italic_ and `Code` text
+- Предоставим услуги по выкупу мебели и оргтехники - офисной и для дома.
 
-[Link](url) and ![Image](src)
-```
+- Рассматрим варианты продажи мебели под реализацию.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+- [Свяжитесь с нами](Контакты)
 
-### Jekyll Themes
+## Оплата и доставка
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mebel-bu/mebel-bu.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+- Доставка проводится после осмотра товара и его оплаты.
 
-### Support or Contact
+- Оплата услуг грузчиков почасовая: 50 грн/час за человека.
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- Минимальная стоимость транспортировки: 240 грн. (по Киеву).
+
+- Доставка в регионы НОВОЙ ПОЧТОЙ или ИНТАЙМ после полной оплаты товара.
+
+- Самовывоз.
+ 
+## Контакты
+
+### Менеджер по продажам
+
+**+38(000)123-5678**, Андрей
+
+### Руководитель отдела мебели
+
+**+38(000)123-5678**, Андрей
