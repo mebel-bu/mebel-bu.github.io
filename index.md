@@ -12,12 +12,12 @@
 
 ### Столы
 
-|    |    |    |    |
-|---:|:---|:---|:---|
-| 1. | https://github.com/mebel-bu/mebel-bu.github.io/raw/master/img/table01.jpg|Комплект столешница  отличного качетсва. Коплект ног металлических.| 350 грн.|
-| 2. | https://github.com/mebel-bu/mebel-bu.github.io/raw/master/img/table02.jpg|Комплект столешница  отличного качетсва. Коплект ног металлических.| 350 грн.|
-| 3. | https://github.com/mebel-bu/mebel-bu.github.io/raw/master/img/table03.jpg|Комплект столешница  отличного качетсва. Коплект ног металлических.| 350 грн.|
-| 4. | https://github.com/mebel-bu/mebel-bu.github.io/raw/master/img/table04.jpg|Комплект столешница  отличного качетсва. Коплект ног металлических.| 350 грн.|
+| №  | Фото | Комплект | Цена |
+|---:|:-----|:---------|:-----|
+| 1. | ![](https://github.com/mebel-bu/mebel-bu.github.io/raw/master/img/table01.jpg) | Комплект столешница  отличного качетсва. Коплект ног металлических. | 350 грн. |
+| 2. | ![](https://github.com/mebel-bu/mebel-bu.github.io/raw/master/img/table02.jpg) | Комплект столешница  отличного качетсва. Коплект ног металлических. | 350 грн. |
+| 3. | ![](https://github.com/mebel-bu/mebel-bu.github.io/raw/master/img/table03.jpg) | Комплект столешница  отличного качетсва. Коплект ног металлических. | 350 грн. |
+| 4. | ![](https://github.com/mebel-bu/mebel-bu.github.io/raw/master/img/table04.jpg) | Комплект столешница  отличного качетсва. Коплект ног металлических. | 350 грн. |
 
 ### Стулья
 
