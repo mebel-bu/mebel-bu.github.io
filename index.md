@@ -71,8 +71,8 @@
 
 ### Центральный офис
 
-г.Житомир, ул.Красноармейская, 18
+[г.Житомир, ул.Красноармейская, 18](https://goo.gl/maps/5quJePAfwUB2)
 
 <p>Раз два три</p>
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6073.112640245614!2d28.658177903654003!3d50.20921298470794!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x472c64a32bfa355d%3A0xf14ad2a3d9b9e229!2z0JbQuNGC0L7QvNC40YAsINCW0LjRgtC-0LzQuNGA0YHQutCw0Y8g0L7QsdC70LDRgdGC0Yw!5e0!3m2!1sru!2sua!4v1487005362984" width="800" height="600" frameborder="0" style="border:0" allowfullscreen></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m23!1m12!1m3!1d3036.398890000621!2d28.66335798126687!3d50.21168705594279!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m8!3e6!4m0!4m5!1s0x472c63ecf9c9b92d%3A0xb258529da0f75e4!2z0LLRg9C70LjRhtGPINCn0LXRgNCy0L7QvdC-0LDRgNC80ZbQudGB0YzQutCwLCDQltC40YLQvtC80LjRgNGB0YzQutCwINC-0LHQu9Cw0YHRgtGM!3m2!1d50.2118739!2d28.666118899999997!5e0!3m2!1sru!2sua!4v1487006061390" width="800" height="600" frameborder="0" style="border:0" allowfullscreen></iframe>
 <p>Раз два три</p>
