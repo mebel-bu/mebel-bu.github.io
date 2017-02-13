@@ -26,12 +26,12 @@
 
 ### Столы
 
-| №  | Фото | Описание, комплект | Цена |
+| №  | Фото | Описание, комплект | Цена, грн. |
 |---:|:-----|:-------------------|:-----|
-|  1 | ![](https://github.com/mebel-bu/mebel-bu.github.io/raw/master/img/table01.jpg) | Столешница  отличного качетсва. Коплект ног металлических | 350 грн. |
-|  2 | ![](https://github.com/mebel-bu/mebel-bu.github.io/raw/master/img/table02.jpg) | Премиум сегмент производство всемирно известной фабрики | 800 грн. |
+|  1 | ![](https://github.com/mebel-bu/mebel-bu.github.io/raw/master/img/table01.jpg) | Столешница  отличного качетсва. Коплект ног металлических | 350 |
+|  2 | ![](https://github.com/mebel-bu/mebel-bu.github.io/raw/master/img/table02.jpg) | Премиум сегмент производство всемирно известной фабрики | 800 |
 |  3 | ![](https://github.com/mebel-bu/mebel-bu.github.io/raw/master/img/table03.jpg) | Стол, тумба, экран звукоизоляционный | 2000 грн. |
-|  4 | ![](https://github.com/mebel-bu/mebel-bu.github.io/raw/master/img/table04.jpg) | Стол угловой с тумбой и тумбой для системного блока | 750 грн. |
+|  4 | ![](https://github.com/mebel-bu/mebel-bu.github.io/raw/master/img/table04.jpg) | Стол угловой с тумбой и тумбой для системного блока | 750 |
 
 ### Стулья
 
@@ -53,7 +53,7 @@
 
 - Предоставим услуги по выкупу мебели и оргтехники - офисной и для дома.
 
-- Рассматрим варианты продажи мебели под реализацию.
+- Рассмотрим варианты продажи мебели под реализацию.
 
 ---
 
