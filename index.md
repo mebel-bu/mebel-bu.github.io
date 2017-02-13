@@ -2,7 +2,7 @@
 
 У нас вы можете купить мебель для офиса.
 
-[Весь каталог в одном файле.](https://github.com/mebel-bu/mebel-bu.github.io/raw/master/mebel-bu.pdf)
+[Весь каталог в одном файле.](https://github.com/mebel-bu/mebel-bu.github.io/raw/master/price/mebel-bu.pdf)
 
 ## Акции
 
@@ -10,11 +10,14 @@
 
 ## Каталог
 
-|ffff|kkkk|
-|:---|:---|
-|sdfd|sdfd|
-
 ### Столы
+
+|    |    |    |    |
+|---:|:---|:---|:---|
+| 1. | https://github.com/mebel-bu/mebel-bu.github.io/raw/master/img/table01.jpg|Комплект столешница  отличного качетсва. Коплект ног металлических.| 350 грн.|
+| 2. | https://github.com/mebel-bu/mebel-bu.github.io/raw/master/img/table02.jpg|Комплект столешница  отличного качетсва. Коплект ног металлических.| 350 грн.|
+| 3. | https://github.com/mebel-bu/mebel-bu.github.io/raw/master/img/table03.jpg|Комплект столешница  отличного качетсва. Коплект ног металлических.| 350 грн.|
+| 4. | https://github.com/mebel-bu/mebel-bu.github.io/raw/master/img/table04.jpg|Комплект столешница  отличного качетсва. Коплект ног металлических.| 350 грн.|
 
 ### Стулья
 
